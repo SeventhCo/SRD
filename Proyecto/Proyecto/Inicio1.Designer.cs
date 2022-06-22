@@ -31,6 +31,7 @@
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormInicio));
             this.PanelLateral = new System.Windows.Forms.Panel();
+            this.unloginleave = new System.Windows.Forms.PictureBox();
             this.logoenter = new System.Windows.Forms.PictureBox();
             this.loginenter = new System.Windows.Forms.PictureBox();
             this.panelAyuda = new System.Windows.Forms.Panel();
@@ -45,6 +46,7 @@
             this.panelInicio = new System.Windows.Forms.Panel();
             this.panel4 = new System.Windows.Forms.Panel();
             this.LblInicio = new System.Windows.Forms.Label();
+            this.unloginenter = new System.Windows.Forms.PictureBox();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.timer2 = new System.Windows.Forms.Timer(this.components);
             this.Panel = new System.Windows.Forms.Panel();
@@ -53,6 +55,7 @@
             this.label5 = new System.Windows.Forms.Label();
             this.INICIO = new System.Windows.Forms.Label();
             this.PanelLateral.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.unloginleave)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.logoenter)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.loginenter)).BeginInit();
             this.panelAyuda.SuspendLayout();
@@ -60,6 +63,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.logoleave)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.loginleave)).BeginInit();
             this.panelInicio.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.unloginenter)).BeginInit();
             this.Panel.SuspendLayout();
             this.PanelAnuncio.SuspendLayout();
             this.SuspendLayout();
@@ -67,18 +71,33 @@
             // PanelLateral
             // 
             this.PanelLateral.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(183)))), ((int)(((byte)(3)))));
+            this.PanelLateral.Controls.Add(this.unloginleave);
             this.PanelLateral.Controls.Add(this.logoenter);
-            this.PanelLateral.Controls.Add(this.loginenter);
             this.PanelLateral.Controls.Add(this.panelAyuda);
             this.PanelLateral.Controls.Add(this.panelDeportes);
             this.PanelLateral.Controls.Add(this.logoleave);
-            this.PanelLateral.Controls.Add(this.loginleave);
             this.PanelLateral.Controls.Add(this.exit);
             this.PanelLateral.Controls.Add(this.panelInicio);
+            this.PanelLateral.Controls.Add(this.unloginenter);
+            this.PanelLateral.Controls.Add(this.loginenter);
+            this.PanelLateral.Controls.Add(this.loginleave);
             this.PanelLateral.Location = new System.Drawing.Point(-17, -6);
             this.PanelLateral.Name = "PanelLateral";
             this.PanelLateral.Size = new System.Drawing.Size(704, 63);
             this.PanelLateral.TabIndex = 0;
+            // 
+            // unloginleave
+            // 
+            this.unloginleave.Image = ((System.Drawing.Image)(resources.GetObject("unloginleave.Image")));
+            this.unloginleave.Location = new System.Drawing.Point(609, 10);
+            this.unloginleave.Name = "unloginleave";
+            this.unloginleave.Size = new System.Drawing.Size(37, 45);
+            this.unloginleave.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.unloginleave.TabIndex = 6;
+            this.unloginleave.TabStop = false;
+            this.unloginleave.Visible = false;
+            this.unloginleave.WaitOnLoad = true;
+            this.unloginleave.MouseLeave += new System.EventHandler(this.unloginenter_MouseLeave);
             // 
             // logoenter
             // 
@@ -248,6 +267,18 @@
             this.LblInicio.Text = "    Inicio";
             this.LblInicio.MouseEnter += new System.EventHandler(this.LblInicio_MouseEnter);
             // 
+            // unloginenter
+            // 
+            this.unloginenter.Image = ((System.Drawing.Image)(resources.GetObject("unloginenter.Image")));
+            this.unloginenter.Location = new System.Drawing.Point(609, 10);
+            this.unloginenter.Name = "unloginenter";
+            this.unloginenter.Size = new System.Drawing.Size(37, 45);
+            this.unloginenter.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.unloginenter.TabIndex = 7;
+            this.unloginenter.TabStop = false;
+            this.unloginenter.Visible = false;
+            this.unloginenter.MouseEnter += new System.EventHandler(this.unloginleave_MouseEnter);
+            // 
             // timer1
             // 
             this.timer1.Enabled = true;
@@ -329,6 +360,7 @@
             this.Load += new System.EventHandler(this.Form1_Load);
             this.PanelLateral.ResumeLayout(false);
             this.PanelLateral.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.unloginleave)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.logoenter)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.loginenter)).EndInit();
             this.panelAyuda.ResumeLayout(false);
@@ -339,6 +371,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.loginleave)).EndInit();
             this.panelInicio.ResumeLayout(false);
             this.panelInicio.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.unloginenter)).EndInit();
             this.Panel.ResumeLayout(false);
             this.Panel.PerformLayout();
             this.PanelAnuncio.ResumeLayout(false);
@@ -360,16 +393,18 @@
         private System.Windows.Forms.Panel Panel;
         private System.Windows.Forms.Label INICIO;
         private System.Windows.Forms.PictureBox logoenter;
-        private System.Windows.Forms.PictureBox loginleave;
-        private System.Windows.Forms.PictureBox loginenter;
         private System.Windows.Forms.Panel panelAyuda;
         private System.Windows.Forms.Panel panel8;
         private System.Windows.Forms.Label LblAyuda;
         private System.Windows.Forms.Panel panelDeportes;
         private System.Windows.Forms.Panel panel6;
         private System.Windows.Forms.Label LblDeportes;
-        private System.Windows.Forms.Panel PanelAnuncio;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label1;
+        public System.Windows.Forms.PictureBox loginleave;
+        public System.Windows.Forms.PictureBox loginenter;
+        public System.Windows.Forms.PictureBox unloginenter;
+        public System.Windows.Forms.PictureBox unloginleave;
+        public System.Windows.Forms.Panel PanelAnuncio;
     }
 }

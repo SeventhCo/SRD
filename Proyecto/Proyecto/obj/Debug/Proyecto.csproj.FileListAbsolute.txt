@@ -46,3 +46,6 @@ E:\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
 E:\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
 E:\Proyecto\Proyecto\obj\Debug\Proyecto.exe
 E:\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Gastón\Desktop\Proyecto\Proyecto\obj\Debug\Interop.ADODB.dll
+C:\Users\Gastón\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.ResolveComReference.cache
+C:\Users\Gastón\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Register.resources

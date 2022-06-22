@@ -58,6 +58,7 @@ namespace Proyecto
 
         private void button1_Click(object sender, EventArgs e)
         {
+            /*
             try
             {
                 Program.cm.Open("bd7sdco", txtUser.Text, txtContra.Text, -1);
@@ -70,6 +71,46 @@ namespace Proyecto
             Program.cm.CursorLocation = ADODB.CursorLocationEnum.adUseClient;
             //doypermisos
             Program.frmPrincipal.frmLogin.Visible = false;
+            */
+            try
+            {
+                if (txtUser.Text.Equals("admin") && txtContra.Text.Equals("admin"))
+                {
+                    Program.frmPrincipal.frmLogin.Visible = false;
+
+                    //inicio
+                    Program.frmPrincipal.loginleave.Visible = false;
+                    Program.frmPrincipal.unloginenter.Visible = true;
+                    Program.frmPrincipal.PanelAnuncio.Visible = false;
+
+                    //deportes
+                    Program.frmPrincipal.a.panelAgregar.Visible = true;
+                    Program.frmPrincipal.a.panelEliminar.Visible = true;
+                    Program.frmPrincipal.a.loginenter.Visible = false;
+                    Program.frmPrincipal.a.unloginenter.Visible = true;
+                    Program.frmPrincipal.a.panelPublicidad.Visible = false;
+
+                    //deportes torneos
+                    Program.frmPrincipal.frmTorneos.loginleave.Visible = false;
+                    Program.frmPrincipal.frmTorneos.panelAgregar.Visible = true;
+                    Program.frmPrincipal.frmTorneos.panelEliminar.Visible = true;
+                    Program.frmPrincipal.frmTorneos.unloginleave.Visible = true;
+                    Program.frmPrincipal.frmTorneos.Anuncio.Visible = false;
+
+                    //deportes equipos
+                    Program.frmPrincipal.frmEquipo.loginleave.Visible = false;
+                    Program.frmPrincipal.frmEquipo.panelAgregar.Visible = true;
+                    Program.frmPrincipal.frmEquipo.panelAnuncio.Visible = false;
+                    Program.frmPrincipal.frmEquipo.panelEliminar.Visible = true;
+                    Program.frmPrincipal.frmEquipo.unloginleave.Visible = true;
+                }
+            }
+            catch
+            {
+                MessageBox.Show("Usuario o contraseña incorrecta");
+                return;
+            }
+            
         }
 
         private void VerContra_MouseEnter(object sender, EventArgs e)

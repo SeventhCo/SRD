@@ -314,5 +314,17 @@ namespace Proyecto
             Program.frmPrincipal.frmEquipos_equipos.Visible = true;
             this.Visible = false;
         }
+
+        private void unloginleave_MouseEnter(object sender, EventArgs e)
+        {
+            unloginleave.Visible = false;
+            unloginenter.Visible = true;
+        }
+
+        private void unloginenter_MouseLeave(object sender, EventArgs e)
+        {
+            unloginenter.Visible = false;
+            unloginleave.Visible = true;
+        }
     }
 }

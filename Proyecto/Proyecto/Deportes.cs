@@ -311,6 +311,18 @@ namespace Proyecto
         {
             panelEliminar.BackColor = Color.FromArgb(2, 43, 63);
         }
+
+        private void unloginenter_MouseEnter(object sender, EventArgs e)
+        {
+            unloginenter.Visible = false;
+            unloginleave.Visible = true;
+        }
+
+        private void unloginleave_MouseLeave(object sender, EventArgs e)
+        {
+            unloginleave.Visible = false;
+            unloginenter.Visible = true;
+        }
     }
 }
 

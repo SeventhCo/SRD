@@ -30,7 +30,6 @@
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form5));
-            this.label9 = new System.Windows.Forms.Label();
             this.Panel = new System.Windows.Forms.Panel();
             this.SubPanel = new System.Windows.Forms.Panel();
             this.panelOpciones = new System.Windows.Forms.Panel();
@@ -69,6 +68,8 @@
             this.panelInicio = new System.Windows.Forms.Panel();
             this.panel4 = new System.Windows.Forms.Panel();
             this.LblInicio = new System.Windows.Forms.Label();
+            this.unloginleave = new System.Windows.Forms.PictureBox();
+            this.unloginenter = new System.Windows.Forms.PictureBox();
             this.Panel.SuspendLayout();
             this.SubPanel.SuspendLayout();
             this.panelOpciones.SuspendLayout();
@@ -95,23 +96,14 @@
             ((System.ComponentModel.ISupportInitialize)(this.logoleave)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.loginleave)).BeginInit();
             this.panelInicio.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.unloginleave)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.unloginenter)).BeginInit();
             this.SuspendLayout();
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.ForeColor = System.Drawing.Color.White;
-            this.label9.Location = new System.Drawing.Point(608, 26);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(72, 13);
-            this.label9.TabIndex = 3;
-            this.label9.Text = "*modo admin*";
             // 
             // Panel
             // 
             this.Panel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(2)))), ((int)(((byte)(43)))), ((int)(((byte)(63)))));
             this.Panel.Controls.Add(this.SubPanel);
-            this.Panel.Controls.Add(this.label9);
             this.Panel.Controls.Add(this.Anuncio);
             this.Panel.Location = new System.Drawing.Point(-2, 55);
             this.Panel.Name = "Panel";
@@ -256,6 +248,7 @@
             this.panelEliminar.Name = "panelEliminar";
             this.panelEliminar.Size = new System.Drawing.Size(64, 65);
             this.panelEliminar.TabIndex = 3;
+            this.panelEliminar.Visible = false;
             // 
             // ImgEliminar
             // 
@@ -293,6 +286,7 @@
             this.panelAgregar.Name = "panelAgregar";
             this.panelAgregar.Size = new System.Drawing.Size(64, 65);
             this.panelAgregar.TabIndex = 2;
+            this.panelAgregar.Visible = false;
             // 
             // ImgAgregar
             // 
@@ -373,6 +367,8 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(183)))), ((int)(((byte)(3)))));
+            this.panel1.Controls.Add(this.unloginenter);
+            this.panel1.Controls.Add(this.unloginleave);
             this.panel1.Controls.Add(this.logoenter);
             this.panel1.Controls.Add(this.loginenter);
             this.panel1.Controls.Add(this.panelAyuda);
@@ -555,6 +551,31 @@
             this.LblInicio.MouseDown += new System.Windows.Forms.MouseEventHandler(this.LblInicio_MouseDown);
             this.LblInicio.MouseEnter += new System.EventHandler(this.LblInicio_MouseEnter);
             // 
+            // unloginleave
+            // 
+            this.unloginleave.Image = ((System.Drawing.Image)(resources.GetObject("unloginleave.Image")));
+            this.unloginleave.Location = new System.Drawing.Point(609, 10);
+            this.unloginleave.Name = "unloginleave";
+            this.unloginleave.Size = new System.Drawing.Size(37, 45);
+            this.unloginleave.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.unloginleave.TabIndex = 8;
+            this.unloginleave.TabStop = false;
+            this.unloginleave.Visible = false;
+            this.unloginleave.MouseEnter += new System.EventHandler(this.unloginleave_MouseEnter);
+            // 
+            // unloginenter
+            // 
+            this.unloginenter.Image = ((System.Drawing.Image)(resources.GetObject("unloginenter.Image")));
+            this.unloginenter.Location = new System.Drawing.Point(609, 10);
+            this.unloginenter.Name = "unloginenter";
+            this.unloginenter.Size = new System.Drawing.Size(37, 45);
+            this.unloginenter.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.unloginenter.TabIndex = 9;
+            this.unloginenter.TabStop = false;
+            this.unloginenter.Visible = false;
+            this.unloginenter.WaitOnLoad = true;
+            this.unloginenter.MouseLeave += new System.EventHandler(this.unloginenter_MouseLeave);
+            // 
             // Form5
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -568,7 +589,6 @@
             this.Text = "Form5";
             this.Load += new System.EventHandler(this.Form5_Load);
             this.Panel.ResumeLayout(false);
-            this.Panel.PerformLayout();
             this.SubPanel.ResumeLayout(false);
             this.SubPanel.PerformLayout();
             this.panelOpciones.ResumeLayout(false);
@@ -603,14 +623,14 @@
             ((System.ComponentModel.ISupportInitialize)(this.loginleave)).EndInit();
             this.panelInicio.ResumeLayout(false);
             this.panelInicio.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.unloginleave)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.unloginenter)).EndInit();
             this.ResumeLayout(false);
 
         }
 
         #endregion
-        private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Panel Panel;
-        private System.Windows.Forms.Panel Anuncio;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.Panel panel1;
@@ -623,7 +643,6 @@
         private System.Windows.Forms.Panel panel6;
         private System.Windows.Forms.Label LblDeportes;
         private System.Windows.Forms.PictureBox logoleave;
-        private System.Windows.Forms.PictureBox loginleave;
         private System.Windows.Forms.Button exit;
         private System.Windows.Forms.Panel panelInicio;
         private System.Windows.Forms.Panel panel4;
@@ -632,10 +651,8 @@
         private System.Windows.Forms.Panel ChkEquis;
         private System.Windows.Forms.PictureBox equis;
         private System.Windows.Forms.Label Titulo;
-        private System.Windows.Forms.Panel panelEliminar;
         private System.Windows.Forms.PictureBox ImgEliminar;
         private System.Windows.Forms.PictureBox ok;
-        private System.Windows.Forms.Panel panelAgregar;
         private System.Windows.Forms.PictureBox ImgAgregar;
         private System.Windows.Forms.Panel panelBasket;
         private System.Windows.Forms.PictureBox ImgBasket;
@@ -647,5 +664,11 @@
         private System.Windows.Forms.PictureBox equiposentergris;
         private System.Windows.Forms.PictureBox torneoleaveazul;
         private System.Windows.Forms.Label label5;
+        public System.Windows.Forms.Panel Anuncio;
+        public System.Windows.Forms.Panel panelEliminar;
+        public System.Windows.Forms.Panel panelAgregar;
+        public System.Windows.Forms.PictureBox loginleave;
+        public System.Windows.Forms.PictureBox unloginleave;
+        public System.Windows.Forms.PictureBox unloginenter;
     }
 }
