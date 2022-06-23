@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5AFEE28F-F75B-4B5B-ABD2-4302BB6AA373}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Proyecto</RootNamespace>
+    <AssemblyName>Proyecto</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Control\Control.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Deportes - Equipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Deportes - Equipo.Designer.cs">
+      <DependentUpon>Deportes - Equipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Deportes - Herramientas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Deportes - Herramientas.Designer.cs">
+      <DependentUpon>Deportes - Herramientas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Deportes - Torneos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Deportes - Torneos.Designer.cs">
+      <DependentUpon>Deportes - Torneos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Deportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Deportes.Designer.cs">
+      <DependentUpon>Deportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos - Herramientas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos - Herramientas.Designer.cs">
+      <DependentUpon>Equipos - Herramientas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos - [Equipos].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos - [Equipos].Designer.cs">
+      <DependentUpon>Equipos - [Equipos].cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\apiAnuncios.cs" />
+    <Compile Include="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Torneos - Herramientas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Torneos - Herramientas.Designer.cs">
+      <DependentUpon>Torneos - Herramientas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio1.Designer.cs">
+      <DependentUpon>Inicio1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Deportes - Equipo.resx">
+      <DependentUpon>Deportes - Equipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Deportes - Herramientas.resx">
+      <DependentUpon>Deportes - Herramientas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Deportes - Torneos.resx">
+      <DependentUpon>Deportes - Torneos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Deportes.resx">
+      <DependentUpon>Deportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos - Herramientas.resx">
+      <DependentUpon>Equipos - Herramientas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos - [Equipos].resx">
+      <DependentUpon>Equipos - [Equipos].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Torneos - Herramientas.resx">
+      <DependentUpon>Torneos - Herramientas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio1.resx">
+      <DependentUpon>Inicio1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ADODB">
+      <Guid>{B691E011-1797-432E-907A-4D8C69339129}</Guid>
+      <VersionMajor>6</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Imagenes\equiposenterazul.png" />
+    <Content Include="Imagenes\equiposentergris.png" />
+    <Content Include="Imagenes\equiposleaveazul.png" />
+    <Content Include="Imagenes\Equiposleavegris.png" />
+    <Content Include="Imagenes\equiposleavgris.png" />
+    <Content Include="Imagenes\individualcliclazul.png" />
+    <Content Include="Imagenes\individualenterazul.png" />
+    <Content Include="Imagenes\individualentergris.png" />
+    <Content Include="Imagenes\individualleaveazul.png" />
+    <Content Include="Imagenes\individualleavegris.png" />
+    <Content Include="Imagenes\login.png" />
+    <Content Include="Imagenes\loginenter.jpg" />
+    <Content Include="Imagenes\logoappleave.jpg" />
+    <Content Include="Imagenes\Torneoleavegris.png" />
+    <Content Include="Imagenes\Torneosenterazul.png" />
+    <Content Include="Imagenes\Torneosentergris.png" />
+    <Content Include="Imagenes\Torneosleaveazul.png" />
+    <Content Include="Imagenes\Torneosleaveazulentergris.png" />
+    <Content Include="Imagenes\Torneosleavegrisenterazul.png" />
+    <Content Include="Imagenes\unloginenter.jpg" />
+    <Content Include="Imagenes\unloginleave.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
