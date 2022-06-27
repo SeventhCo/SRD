@@ -1,0 +1,19 @@
+create database MySQLbdsdco;
+use MySQLbdsdco;
+drop table usuario;
+create table usuario (
+nombre varchar(20) ,
+apellido varchar(20) ,
+gmail varchar(50),
+contra varchar(100),
+fecha varchar(20) ,
+suscrito bool ,
+primary key (gmail)
+);
+create table deporte (
+nombre varchar(20) ,
+tipo bool ,    # Individual 1    equipo 0
+N_jugadores int,
+img varchar (100),
+primary key (nombre)
+);
