@@ -1,0 +1,102 @@
+P22 () {
+#!/bin/bash
+yad --title="Estado De los puertos"\
+        --center \
+        --width=250 \
+        --heigth=40 \
+        --button=Volver:0 \
+        --button=Salir:1 \
+        --text="MySQL : $(sudo systemctl status mysqld | head -3 | tail -1 | cut -d: -f2 | cut -d' ' -f2,3)
+Apache : $(sudo systemctl status httpd | head -3 | tail -1 | cut -d: -f2 | cut -d' ' -f2,3)
+SSH : $(sudo systemctl status sshd | head -3 | tail -1 | cut -d: -f2 | cut -d' ' -f2,3)"\
+        --text-align=center
+ans=$?
+if [ $ans -eq 1 ]
+then
+yad --title="Salir" --center --width=300  --text="Haz Salido" --button ok
+    break
+fi
+}
+MOD(){
+puerto=$(
+yad --list \
+             --title="Modificar Estado"\
+             --height=200 \
+             --width=300 \
+             --button=Aceptar:0 \
+             --button=Volver:1 \
+             --center \
+             --text="Selecciona una opcion:" \
+             --radiolist \
+             --column="" \
+             --column="Opciones" \
+             1 "MySQL cambiar estado" 2 "Apache cambiar estado" 3 "SSH cambiar estado"\
+)
+ans=$?
+if [ $ans -eq 0 ]
+then
+
+    case $puerto in
+        *MySQL*)
+                if [ "$(sudo systemctl status mysqld | head -3 | tail -1 | cut -d: -f2 | cut -d' ' -f2)" = "active" ]
+                then
+                sudo systemctl stop mysqld
+                else
+                sudo systemctl start mysqld
+                fi
+                yad --title="Salir" --center --width=300  --text="Estado Cambiado a $(sudo systemctl status mysqld | head -3 | tail -1 | cut -d: -f2 | cut -d' ' -f2,3)" --button ok
+                ;;
+        *Apache*)
+if [ "$(sudo systemctl status httpd | head -3 | tail -1 | cut -d: -f2 | cut -d' ' -f2)" = "active" ]
+                then
+                sudo systemctl stop httpd
+                else
+                sudo systemctl start httpd
+                fi
+                yad --title="Salir" --center --width=300  --text="Estado Cambiado a $(sudo systemctl status httpd | head -3 | tail -1 | cut -d: -f2 | cut -d' ' -f2,3)" --button ok
+                ;;
+        *SSH*)
+                if [ "$(sudo systemctl status sshd | head -3 | tail -1 | cut -d: -f2 | cut -d' ' -f2)" = "active" ]
+                then
+                sudo systemctl stop sshd
+                else
+                sudo systemctl start sshd
+                fi
+                yad --title="Salir" --center --width=300  --text="Estado Cambiado a $(sudo systemctl status sshd | head -3 | tail -1 | cut -d: -f2 | cut -d' ' -f2,3)" --button ok
+                ;;
+
+
+    esac
+fi
+}
+
+while true
+do
+opcion=$(
+             yad --list \
+             --title="sistemas"\
+             --height=200 \
+             --width=300 \
+             --button=Aceptar:0 \
+             --button=Salir:1 \
+             --center \
+             --text="Selecciona una opcion:" \
+             --radiolist \
+             --column="" \
+             --column="Opciones" \
+             1 "Ver estado de los servicios" 2 "Modificar Estado de los servicios"\
+)
+ans=$?
+if [ $ans -eq 0 ]
+then
+
+    case $opcion in
+        *Ver*) P22;;
+        *Mod*) MOD;;
+
+    esac
+else
+    yad --title="Salir" --center --width=300  --text="Haz Salido" --button ok
+    break
+fi
+done
