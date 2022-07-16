@@ -1,0 +1,40 @@
+create database MySQLbdsdco;
+use MySQLbdsdco;
+
+create table usuario (
+gmail varchar(50) not null,
+contra varchar(50) not null,
+rol int ,
+primary key (gmail)
+);
+create table deporte (
+nombreDep varchar(30) not null,
+indiv_Equip bool not null,    # Individual 1    equipo 0
+N_titulares int not null,
+#logo BLOB,
+#sisPuntaje varchar(30) not null,
+#foreign key (sisPuntaje) references SisPuntaje (nombre),
+primary key (nombreDep)
+);
+create table torneo (
+nombreTorn varchar(30) not null,
+#idTorn int not null,
+#nac_inter bool not null, #nacional o internacional
+#Trofeo varchar(30), #nombre del trofeo
+#icono_premio BLOB,
+#equipoGanador varchar(30),
+#terminado bool not null, #si o no
+#nombreDep varchar(30) not null,
+#foreign key (nombreDep) references deporte (nombreDep),
+primary key (nombreTorn)#,nombreDep)
+);
+create table equipo (
+nombreEqu varchar(30) not null,
+#texto1 varchar(200),
+#texto2 varchar(200),
+#Presidente varchar(100),
+#Fundacion varchar(30),
+#escudo BLOB,
+#banner BLOB,
+primary key (nombreEqu)
+);
