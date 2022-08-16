@@ -1,0 +1,38 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Proyecto
+{
+    class ApiAut
+    {
+        public static string registrar(string nombre, string apellido, string gmail, string contra, string fecha)
+        {
+            return "{output : "+Logica.registrar(nombre,apellido,gmail,contra,fecha,0)+"}";
+        }
+        public static string login(string gmail, string contra)
+        {
+            return "{output : "+ Logica.iniciar(gmail, contra) + "}";
+        }
+        public static string validGmail(string entrada)
+        {
+            string salida = "";
+            if (entrada.Contains('@'))
+            {
+                for (int i = 0; i < entrada.Length; i++)
+                {
+                    if (entrada[i] != '@')
+                    {
+                        salida = salida + entrada[i];
+                    }
+                    else break;
+                }
+            }
+            else salida = entrada;
+            return salida;
+        }
+
+    }
+}
