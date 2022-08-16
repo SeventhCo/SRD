@@ -1,0 +1,27 @@
+Iniciar xampp control panel
+[start] MySQL
+
+
+ir a MySQL Workbench, iniciar una conexion (xampp debe estar funcando)
+Pegar el codigo y ejecutar
+
+
+ir a ODBC data sources
+Plataforma x32 Y x64, AMBOS 
+
+	{
+		Data source name : bd7sdco
+		TCP/IP SERVER : localhost
+		port : 3306
+		database MySQLbdsdco
+	}
+
+	Driver MySQL ODBC 8.0 ANSI Driver
+
+Links de instalacion de cosas
+https://www.microsoft.com/en-us/download/details.aspx?id=56567
+https://www.apachefriends.org/es/index.html
+https://dev.mysql.com/downloads/workbench/
+https://dev.mysql.com/downloads/connector/odbc/   <--- Descargar la version x64 Y x32, ambas o no funca una mierda
+https://dev.mysql.com/downloads/connector/net/5.2.html
+https://dev.mysql.com/downloads/windows/visualstudio/1.2.html
