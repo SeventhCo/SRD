@@ -1,0 +1,293 @@
+{Deporte}
+
+lblEliminarDep=Eliminar
+lblAgregarDep=Agregar
+lblTorneosDep=Torneos
+
+{Deporte herr}
+
+lblHerramientas=Herramientas
+lblLogo=LOGO
+lblTitulares=Titulares
+lblEnfrentamientosDep=Enfrentamiento
+lblEquiposDep=Equipos por
+lblRecomendacionDep=*Recomendamos asignar un logo con resolucion 64x64
+lblNomDep=Nombre de Deporte
+lblNomCorto=Nombre corto
+lblCantDep=Cantidad de
+btnCancelarDep=Cancelar
+btnAceptarDep=Aceptar
+lblSistemaDep=Sistema de puntaje
+
+{Deportistas}
+
+lblHerramientasDeportistas=Herramientas para crear deportistas
+lblNombreDep=Nombre
+lblCiDepor=Documento de Identidad
+lblPaisDepo=Pais
+lblEdadDepo=Edad
+lblAlturaDepo=Altura
+lblPesoDepo=Peso
+lblEquipoDepo=Equipo
+lblDeporteDepo=Deporte
+lblRecomendacionDeportista=*Recomendamos asignar un logo con resolucion 64x64
+lblLogoDepo=LOGO
+btnCancelarDepo=Cancelar
+btnAceptarDepo=Aceptar
+
+{Equipos herr}
+
+lblHerramientasEquipos=Herramientas para crear equipos
+lblNombreE=Nombre de Equipo
+lblNombreCortoEquipos=Nomre corto
+lblDeporteEquipos=Deporte
+lblLogoEquipos=LOGO
+lblRecomendacionEquipos=*Recomendamos asignar un logo con resolucion 64x64
+btnCancelarEquipos=Cancelar
+btnAceptarEquipos=Aceptar
+
+{Evento}
+
+lblTituloEvento=Titulo del evento
+lblFechaEvento=Fecha del evento
+lblDepoEvento=Deporte
+lblTorneoEvento=Torneo
+btnAceptarEvento=Hecho
+btnCancelarEvento=Salir
+btnAgregarEventos=Agregar Equipo
+lblEquiposEvento=Equipos
+lblCrearEventos=Crear Evento
+
+
+{Inicio1}
+
+lblInicioMedio=INICIO
+LblDeportesInicio=   Directorio
+LblInicio=   Inicio
+LblAyudaInicio=   Ayuda
+lblDeporteInicio=Deportes
+lblTorneosInicio=Torneos
+lblEquiposInicio=Equipos
+lblEventosInicio=Eventos
+lblDeportistasInicio=Deportistas
+lblAgregarDeportesIni=Agregar
+lblEliminarDeportesIni=Eliminar
+lblAgregarDeportesIni2=Agregar
+lblEliminarDeportesIni2=Eliminar
+lblAgregarTorneosIni=Agregar
+lblEliminarTorneoIni=Eliminar
+
+
+{Login}
+
+lblLogin=Log in
+lblGmail=Gmail
+lblPass=Contraseña
+btnIniciarSesion=Iniciar Sesion
+lblforPass=Olvide mi Constraseña
+lblCrearCuenta=Crear Cuenta
+
+
+{Recuperar}
+
+lblCrearCuenta2=Crear Cuenta
+lblContraseñaArriba=Contraseña
+lblRecuperarArriba=Recuperar
+lblforPass2=Iniciar Sesion
+lblContra2=Nueva contraseña
+lblCodigo=Codio
+btnSendEmail=Enviar Email
+pnlRecuperar
+
+{Register}
+
+lblRegistrate=Registrate
+lblSubRegistrate=Experencias únicas aseguradas
+lblNombreRegister=Nombre
+lblApellidoRegister=Apellido
+lblCorreoElectronicoRegister=Correo electronico
+lblContraseñaRegister=Contraseña
+lblFechaRegister=Fecha de nacimiento
+lblUsuarioSubscriptoRegister=UsuarioSubscripto
+btnCrearCuentaRegister=Crear Cuenta
+lblCuentaRegister=Ya tengo una cuenta
+pnlRegister
+
+
+{SisPunt}
+
+lblSisPuntaje=Sistema de puntaje
+panelSisPuntaje
+lblNomSistema=Nombre del Sistema
+lblTipoPuntaje=Tipo de puntaje
+btnAceptarSisPuntaje=Hecho
+btnCancelarSisPuntaje=Salir
+pnlSubSisPuntaje
+
+
+
+
+{Torneo}
+
+btnIniciarTorneo=IniciarTorneo
+btnEquiposTorneo=Equipos
+btnConfigurarTorneo=Configurar Fase
+pnlTorneoT
+lblAgregarEqTorneos=AgregarEquipo
+pnlSubTorneo
+
+{Torneo herr}
+
+lblHerrCrearTorneos=Herramientas para crear torneos
+pnlCrearTorneo
+
+lblNombreT=Nombre de Torneo
+pnlNombreTorn
+
+lblTrofeoTorn=Nombre trofeo:
+pnlTrofeoTorn
+
+btnCaracteristicasTorn=Caracteristicas
+btnOrganizacionEqTorn=Organizacion de Equipos
+btnCancelarTorn=Cancelar
+btnAceptarTorn=Aceptar
+pnlHerrTorneo
+
+lblNombreCortoTorneo=Nombre corto
+pnlNombreCortoTorneo
+
+lblDeporteTorneoH=Deporte
+pnlDeporteTorneoH
+
+lblPaisTorneoH=Pais
+pnlPaisTorneoH
+
+btnNacional1=Nacional
+btnInternacional1=Internacional
+pnlHerrTorneo
+
+{Usuario}
+
+pnlNom1
+lblNom1=Nombre
+pnlApellido1
+lblApellido1=Apellido
+
+pnl1Usuario
+btnAceptar1Usu=Aceptar
+btnCancelar1Usu=Cancelar
+
+pnl2Usuario
+btnAceptar2Usu=Aceptar
+btnCancelar2Usu=Cancelar
+
+pnl3Usuario
+lblGmailUsu=Gmail
+
+pnl4Usu
+btnAceptar3Usu=Aceptar
+btnCancelar3Usu=Cancelar
+
+pnlSub3Usu
+lblContraseñaActual=Contraseña actual
+
+pnl5Usu
+btnAceptar4Usu=Aceptar
+btnCancelar4Usu=Cancelar
+
+pnlSub5Usu
+lblEliminarCuentaUsu=Seguro que desea eliminar su Cuenta? 
+lblEfectivamente=Escriba "EFECTIVAMENTE" para confirmar 
+
+pnlMenu1Usu
+btnRegresarUsu=Regresar
+btnAjustesUsu=Ajustes de Usuario
+btnSuscripcionUsu=Suscripcion
+btnIdiomaUsu=Idioma
+btnGestionarPublicidadUsu=Gestionar Publicidad
+btnCerrarSesionUsu=Cerrar Sesion
+
+
+pnlAjuste1Usu
+lblNombreAjusteUsu=Nombre
+lblApellidoAjusteUsu=Apellido
+btnEditar1Usu=Editar
+
+pnlAjuste2Usu
+lblCorreoAjusteUsu=Correo Electronico
+btnEditar2Usu=Editar
+
+pnlAjuste3Usu
+lblContraAjusteUsu=Contraseña
+btnEditar3Usu=Editar
+
+pnlAjuste4Usu
+lblPaisAjusteUsu=Pais
+btnEditar4Usu=Editar
+
+pnlAjustes
+btnEliminarCuentaUsu
+
+
+pnlPlan1
+lblPlan1
+btnComprarPlan1=COMPRAR
+lblPlanInfo1
+
+pnlPlan2
+lblPlan2
+btnComprarPlan2=COMPRAR
+lblPlanInfo2
+
+pnlPlan3
+lblPlan3
+btnComprarPlan3=COMPRAR
+lblPlanInfo1
+
+
+pnlSubPublicidadUsu
+btnAceptarPublicidadUsu=Aceptar
+btnCancelarPublicidadUsu=Cancelar
+
+
+pnlPublicidadUsu
+lblPublicidadUsu=Publicidad
+
+pnlIdentificador
+lblIdentificador=Identificador
+
+pnlTipoPublicidad
+lblTipoPublicidad=Tipo
+
+pnlPaisPublicidad
+lblPaisPublicidad=Pais
+
+pnlSubPublicidad1
+lblCantPublicidad=Publicidades Totales
+lblPublicidadesEquipo=Publicidades de Equipos
+lblPublicidadesDeporte=Publicidades de Deportes
+btnEditarPublicidad=Editar
+
+pnlPubli
+btnAgrpub=Agregar Publicidad
+btnEliminarPublicidad=Eliminar Publicidad
+
+
+
+
+
+
+pnlInicoArriba
+pnlDirectorios
+pnlAyuda
+PanelLateral
+pnlEnfrentamientoInicio
+pnlDeportistasInicio
+SubPanelTor
+SubPanelEqu
+SubPanelDep
+pnlDeportistasIni
+pnlEventosIni
+pnlEquiposIni
+pnlTorneosIni
+pnlDeportesIni

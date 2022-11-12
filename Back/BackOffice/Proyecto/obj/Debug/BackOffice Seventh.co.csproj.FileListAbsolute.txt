@@ -1,0 +1,299 @@
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\AgregarFase.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\ajustes.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Banner\Banner1.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Banner\Banner2.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Banner\Banner3.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Banner\Banner4.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Banner\Banner5.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Banner\Banner6.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Banner\Banner7.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Banner\Banner8.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Banner\Banner9.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\btnNo.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\btnSi.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\casa.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\depoElimbtn.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\depoElimbtn2.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\ejemplo.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Enequiposoindividual\equiposenterazul.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Enequiposoindividual\equiposentergris.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Enequiposoindividual\equiposleaveazul.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Enequiposoindividual\equiposleavegris.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Enequiposoindividual\individualenterazul.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Enequiposoindividual\individualentergris.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Enequiposoindividual\individualleaveazul.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Enequiposoindividual\individualleaveazulentergris.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Enequiposoindividual\individualleavegris.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Equiposenterazul.jpg
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Equiposentergris.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Equiposleaveazul.jpg
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Equiposleavegris.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\estrella.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\favorito.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\favorito2.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\lineaChikita.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\lineaLarga.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\login.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\loginenter.jpg
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\logoappleave.jpg
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\menos.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\notselected.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\nuevo.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\ojoabierto.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\ojocerrao.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\pregunta.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\RmFase.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\salpicadero.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\selected.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Split\Split1.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Split\Split2.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Split\Split3.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Split\Split4.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Split\Split5.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Split\Split6.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Split\Split7.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Split\Split8.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Torneoleavegris.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Torneosenterazul.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Torneosentergris.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Torneosleaveazul.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Torneosleaveazulentergris.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Torneosleavegrisenterazul.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\unlogin.png
+E:\Back\BackOffice\Proyecto\bin\Debug\Imagenes\unloginenter.jpg
+E:\Back\BackOffice\Proyecto\bin\Debug\Proyecto.exe.config
+E:\Back\BackOffice\Proyecto\bin\Debug\Proyecto.exe.manifest
+E:\Back\BackOffice\Proyecto\bin\Debug\Proyecto.application
+E:\Back\BackOffice\Proyecto\bin\Debug\Proyecto.exe
+E:\Back\BackOffice\Proyecto\bin\Debug\Proyecto.pdb
+E:\Back\BackOffice\Proyecto\bin\Debug\Newtonsoft.Json.dll
+E:\Back\BackOffice\Proyecto\bin\Debug\Newtonsoft.Json.xml
+E:\Back\BackOffice\Proyecto\obj\Debug\Interop.ADODB.dll
+E:\Back\BackOffice\Proyecto\obj\Debug\BackOffice Seventh.co.csproj.ResolveComReference.cache
+E:\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Blank.resources
+E:\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Deporte.resources
+E:\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Form4.resources
+E:\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Deportista.resources
+E:\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Deportistas.resources
+E:\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Equipo.resources
+E:\Back\BackOffice\Proyecto\obj\Debug\Proyecto.HerramientasEquipos.resources
+E:\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Equipos.resources
+E:\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Evento.resources
+E:\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Favorito.resources
+E:\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Login.resources
+E:\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Partido.resources
+E:\Back\BackOffice\Proyecto\obj\Debug\Proyecto.frmRecuperar.resources
+E:\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Register.resources
+E:\Back\BackOffice\Proyecto\obj\Debug\Proyecto.SisPunt.resources
+E:\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Torneo.resources
+E:\Back\BackOffice\Proyecto\obj\Debug\Proyecto.FormHerramientas.resources
+E:\Back\BackOffice\Proyecto\obj\Debug\Proyecto.FormInicio.resources
+E:\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+E:\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Usuario.resources
+E:\Back\BackOffice\Proyecto\obj\Debug\BackOffice Seventh.co.csproj.GenerateResource.cache
+E:\Back\BackOffice\Proyecto\obj\Debug\BackOffice Seventh.co.csproj.CoreCompileInputs.cache
+E:\Back\BackOffice\Proyecto\obj\Debug\Proyecto.exe.manifest
+E:\Back\BackOffice\Proyecto\obj\Debug\Proyecto.application
+E:\Back\BackOffice\Proyecto\obj\Debug\BackOffice Seventh.co.csproj.CopyComplete
+E:\Back\BackOffice\Proyecto\obj\Debug\Proyecto.exe
+E:\Back\BackOffice\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\AgregarFase.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\ajustes.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Banner\Banner1.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Banner\Banner2.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Banner\Banner3.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Banner\Banner4.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Banner\Banner5.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Banner\Banner6.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Banner\Banner7.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Banner\Banner8.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Banner\Banner9.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\btnNo.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\btnSi.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\casa.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\depoElimbtn.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\depoElimbtn2.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\ejemplo.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Enequiposoindividual\equiposenterazul.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Enequiposoindividual\equiposentergris.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Enequiposoindividual\equiposleaveazul.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Enequiposoindividual\equiposleavegris.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Enequiposoindividual\individualenterazul.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Enequiposoindividual\individualentergris.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Enequiposoindividual\individualleaveazul.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Enequiposoindividual\individualleaveazulentergris.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Enequiposoindividual\individualleavegris.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Equiposenterazul.jpg
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Equiposentergris.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Equiposleaveazul.jpg
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Equiposleavegris.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\estrella.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\favorito.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\favorito2.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\lineaChikita.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\lineaLarga.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\login.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\loginenter.jpg
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\logoappleave.jpg
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\menos.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\notselected.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\nuevo.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\ojoabierto.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\ojocerrao.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\pregunta.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\RmFase.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\salpicadero.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\selected.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Split\Split1.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Split\Split2.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Split\Split3.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Split\Split4.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Split\Split5.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Split\Split6.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Split\Split7.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Split\Split8.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Torneoleavegris.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Torneosenterazul.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Torneosentergris.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Torneosleaveazul.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Torneosleaveazulentergris.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Torneosleavegrisenterazul.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\unlogin.png
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\unloginenter.jpg
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Proyecto.exe.manifest
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Proyecto.application
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\BackOffice Seventh.co.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Interop.ADODB.dll
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\BackOffice Seventh.co.csproj.ResolveComReference.cache
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Blank.resources
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Deporte.resources
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Form4.resources
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Deportista.resources
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Deportistas.resources
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Equipo.resources
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.HerramientasEquipos.resources
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Equipos.resources
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Evento.resources
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Favorito.resources
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Partido.resources
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.frmRecuperar.resources
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Register.resources
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.SisPunt.resources
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Torneo.resources
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.FormHerramientas.resources
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.FormInicio.resources
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Usuario.resources
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\BackOffice Seventh.co.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\BackOffice Seventh.co.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.exe.manifest
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.application
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\BackOffice Seventh.co.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Administrador\Desktop\Seventhco\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\AgregarFase.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\ajustes.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Banner\Banner1.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Banner\Banner2.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Banner\Banner3.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Banner\Banner4.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Banner\Banner5.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Banner\Banner6.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Banner\Banner7.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Banner\Banner8.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Banner\Banner9.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\btnNo.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\btnSi.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\casa.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\depoElimbtn.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\depoElimbtn2.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\ejemplo.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Enequiposoindividual\equiposenterazul.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Enequiposoindividual\equiposentergris.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Enequiposoindividual\equiposleaveazul.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Enequiposoindividual\equiposleavegris.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Enequiposoindividual\individualenterazul.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Enequiposoindividual\individualentergris.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Enequiposoindividual\individualleaveazul.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Enequiposoindividual\individualleaveazulentergris.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Enequiposoindividual\individualleavegris.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Equiposenterazul.jpg
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Equiposentergris.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Equiposleaveazul.jpg
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Equiposleavegris.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\estrella.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\favorito.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\favorito2.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\lineaChikita.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\lineaLarga.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\login.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\loginenter.jpg
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\logoappleave.jpg
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\menos.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\notselected.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\nuevo.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\ojoabierto.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\ojocerrao.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\pregunta.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\RmFase.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\salpicadero.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\selected.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Split\Split1.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Split\Split2.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Split\Split3.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Split\Split4.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Split\Split5.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Split\Split6.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Split\Split7.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Split\Split8.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Torneoleavegris.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Torneosenterazul.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Torneosentergris.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Torneosleaveazul.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Torneosleaveazulentergris.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\Torneosleavegrisenterazul.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\unlogin.png
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Imagenes\unloginenter.jpg
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Proyecto.exe.manifest
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Proyecto.application
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\BackOffice Seventh.co.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Interop.ADODB.dll
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\BackOffice Seventh.co.csproj.ResolveComReference.cache
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Blank.resources
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Deporte.resources
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Form4.resources
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Deportista.resources
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Deportistas.resources
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Equipo.resources
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.HerramientasEquipos.resources
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Equipos.resources
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Evento.resources
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Favorito.resources
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Partido.resources
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.frmRecuperar.resources
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Register.resources
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.SisPunt.resources
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Torneo.resources
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.FormHerramientas.resources
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.FormInicio.resources
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.Usuario.resources
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\BackOffice Seventh.co.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\BackOffice Seventh.co.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.exe.manifest
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.application
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\BackOffice Seventh.co.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Usuario\Desktop\Proyecto Visual Studio\Back\BackOffice\Proyecto\obj\Debug\Proyecto.pdb

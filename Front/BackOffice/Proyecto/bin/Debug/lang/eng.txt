@@ -1,0 +1,350 @@
+{Deporte}
+
+pnlTorneos
+lblEliminarDep=Delete
+pnlSubBuscador
+lblAgregarDep=Add
+lblTorneosDep=Tournaments
+
+{Deporte herr}
+
+pnlNomDep
+pnlNombreCorto
+pnlEquiposEnfr
+pnlCantTit
+pnlSistema
+pnlLogo
+pnlSubHerrDep
+pnlDepHerr
+lblHerramientas=   Tools
+lblLogo=LOGO
+lblTitulares=Headlines
+lblEnfrentamientosDep= Matchs
+lblEquiposDep=Teams for
+lblRecomendacionDep=*We recommend to assign a logo with 64x64 resolution
+lblNomDep=Sport name
+lblNomCorto=Abbreviation
+lblCantDep=Amount of
+btnCancelarDep=Cancel
+btnAceptarDep=Accept
+lblSistemaDep=Score system
+
+{Deportistas}
+
+lblHerramientasDeportistas=Tools for the creation of athletes
+lblNombreDep=Name
+lblCiDepor=I.D
+lblPaisDepo=Country
+lblEdadDepo=Age
+lblAlturaDepo=Height
+lblPesoDepo=Weight
+lblEquipoDepo=Team
+lblDeporteDepo=Sport
+lblRecomendacionDeportista=*We recommend to assign a logo with 64x64 resolution
+lblLogoDepo=LOGO
+btnCancelarDepo=Cancel
+btnAceptarDepo=Accept
+
+pnlNombreE
+panel8
+panel5
+panel12
+panel7
+panel16
+panel9
+panel2
+pnlLogo
+pnlHerrEquipos
+
+{Equipos herr}
+
+lblHerramientasEquipos=Tools for the creation of teams
+lblNombreTeam=Name
+lblNombreCortoEquipos=Abbreviation
+lblDeporteEquipos=Sport
+lblLogoEquipos=LOGO
+lblRecomendacionEquipos=*We recommend to assign a logo with 64x64 resolution
+btnCancelarEquipos=Cancel
+btnAceptarEquipos=Accept
+
+pnlSubHerrEquipos
+pnlNombreE
+panel8
+panel9
+pnlLogo
+pnlHerrEquipos
+
+{Evento}
+
+lblTituloEvento=Event title
+lblFechaEvento=Event date
+lblDepoEvento=Sport
+lblTorneoEvento=Tournament
+btnAceptarEvento=Done
+btnCancelarEvento=Exit
+btnAgregarEventos=Add Team
+lblEquiposEvento=Teams
+lblCrearEventos=Create Even
+
+panel26
+panel2
+panel22
+panel4
+pnlEventos
+panel16
+panel1
+
+{Inicio1}
+
+lblInicioMedio=START
+LblDeportesInicio=    Directory
+LblInicio=    Start
+LblAyudaInicio=    Help
+lblDeporteInicio=Sports
+lblTorneosInicio=Tournament
+lblEquiposInicio=Teams
+lblEventosInicio=Events
+lblDeportistasInicio=Athletes
+lblAgregarDeportesIni=Add
+lblEliminarDeportesIni=Delete
+lblAgregarDeportesIni2=Add
+lblEliminarDeportesIni2=Delete
+lblAgregarTorneosIni=Add
+lblEliminarTorneoIni=Delete
+
+pnlEliminarTorn2
+pnlAgregarTornDep
+pnlEliminarEqs
+pnlAgregarEq
+panelAgregarDep
+panelEliminarDep
+pnlInicoArriba
+pnlDirectorios
+pnlAyuda
+PanelLateral
+pnlEnfrentamientoInicio
+pnlDeportistasInicio
+SubPanelTor
+SubPanelEqu
+SubPanelDep
+pnlDeportistasIni
+pnlEventosIni
+pnlEquiposIni
+pnlTorneosIni
+pnlDeportesIni
+
+{Login}
+
+lblLogin=Log in
+lblGmail=Gmail
+lblPass=Password
+btnIniciarSesion=Log in
+lblforPass=I forgot my password
+lblCrearCuenta=Sign in
+
+pnlLogin
+
+
+{Recuperar}
+
+lblCrearCuenta2=Sign in
+lblContraseñaArriba=Password
+lblRecuperarArriba=Recover
+lblforPass2=Log in
+lblContra2=New Password
+lblCodigo=Code
+btnSendEmail=Send Email
+pnlRecuperar
+
+{Register}
+
+lblRegistrate=Sign in
+lblSubRegistrate=Unique experiences guaranteed
+lblNombreRegister=Name
+lblApellidoRegister=Lastname
+lblCorreoElectronicoRegister=Mail
+lblContraseñaRegister=Password
+lblFechaRegister=Date of birth
+lblUsuarioSubscriptoRegister=SubscribedUser
+btnCrearCuentaRegister=Create Account
+lblCuentaRegister=I alredy have an account
+pnlRegister
+
+
+{SisPunt}
+
+lblSisPuntaje=Scoring system
+panelSisPuntaje
+lblNomSistema=System name
+lblTipoPuntaje=Score type
+btnAceptarSisPuntaje=Accept
+btnCancelarSisPuntaje=Exit
+pnlSubSisPuntaje
+
+
+
+
+{Torneo}
+
+btnIniciarTorneo=StartTournament
+btnEquiposTorneo=Teams
+btnConfigurarTorneo=Set up phase
+pnlTorneoT
+lblAgregarEqTorneos=AddTeams
+pnlSubTorneo
+
+{Torneo herr}
+
+lblHerrCrearTorneos=Tools for creating tournaments
+pnlCrearTorneo
+
+lblNombreT=Tournament name
+pnlNombreTorn
+
+lblTrofeoTorn=Trophy name:
+pnlTrofeoTorn
+
+btnCaracteristicasTorn=Characteristics
+btnOrganizacionEqTorn=Team management
+btnCancelarTorn=Cancel
+btnAceptarTorn=Accept
+pnlHerrTorneo
+
+lblNombreCortoTorneo=Abbreviation
+pnlNombreCortoTorneo
+
+lblDeporteTorneoH=Sport
+pnlDeporteTorneoH
+
+lblPaisTorneoH=Country
+pnlPaisTorneoH
+
+btnNacional1=National
+btnInternacional1=International
+pnlHerrTorneo
+
+{Usuario}
+
+pnlNom1
+lblNom1=Name
+pnlApellido1
+lblApellido1=Lastname
+
+pnl1Usuario
+btnAceptar1Usu=Accept
+btnCancelar1Usu=Cancel
+
+pnl2Usuario
+btnAceptar2Usu=Accept
+btnCancelar2Usu=Cancel
+
+pnl3Usuario
+lblGmailUsu=Gmail
+
+pnl4Usu
+btnAceptar3Usu=Accept
+btnCancelar3Usu=Cancel
+
+pnlSub3Usu
+lblContraseñaActual=Current password
+
+pnl5Usu
+btnAceptar4Usu=Accept
+btnCancelar4Usu=Cancel
+
+pnlSub5Usu
+lblEliminarCuentaUsu=Seguro que desea eliminar su Cuenta? 
+lblEfectivamente=Write "CERTAINLY" to confirm 
+
+pnlMenu1Usu
+btnRegresarUsu=Go back
+btnAjustesUsu=User settings
+btnSuscripcionUsu=Subscription
+btnIdiomaUsu=Language
+btnGestionarPublicidadUsu=Manage Advertising 
+btnCerrarSesionUsu=Log out
+
+
+pnlAjuste1Usu
+lblNombreAjusteUsu=Name
+lblApellidoAjusteUsu=Lastname
+btnEditar1Usu=Change
+
+pnlAjuste2Usu
+lblCorreoAjusteUsu=User Mail
+btnEditar2Usu=Change
+
+pnlAjuste3Usu
+lblContraAjusteUsu=Password
+btnEditar3Usu=Change
+
+pnlAjuste4Usu
+lblPaisAjusteUsu=Country
+btnEditar4Usu=Change
+
+pnlAjustes
+btnEliminarCuentaUsu
+
+
+pnlPlan1
+lblPlan1
+btnComprarPlan1=BUY
+lblPlanInfo1
+
+pnlPlan2
+lblPlan2
+btnComprarPlan2=BUY	  	
+lblPlanInfo2
+
+pnlPlan3
+lblPlan3
+btnComprarPlan3=BUY
+lblPlanInfo1
+
+
+pnlSubPublicidadUsu
+btnAceptarPublicidadUsu=Accept
+btnCancelarPublicidadUsu=Cancel
+
+
+pnlPublicidadUsu
+lblPublicidadUsu=Advertising
+
+pnlIdentificador
+lblIdentificador=Identifier
+
+pnlTipoPublicidad
+lblTipoPublicidad=Kind
+
+pnlPaisPublicidad
+lblPaisPublicidad=Country
+
+pnlSubPublicidad1
+lblCantPublicidad=Total Advertisings
+lblPublicidadesEquipo=Teams Advertisings
+lblPublicidadesDeporte=Sport Advertisings
+btnEditarPublicidad=Edit
+
+pnlPubli
+btnAgrpub=Add Advertising
+btnEliminarPublicidad=Delete Advertising
+
+
+
+{Suscripcion}
+
+pnlSuscripcion
+btnSuscribirse=Confirmar
+lblCodioSeguridad=Codigo de seguridad (CVV)
+lblFechaVenc=Fecha de Vencimiento
+lblNumTarjeta=Numero de Tarjeta
+lblCorreoElectronicoSuscrip=Correo electronico
+lblNombreSuscrip=Nombre
+lblApellidoSuscrip=Apellido
+lblSubSuscrip=Experencias únicas aseguradas
+lblSuscripcion=Suscripcion
+
+
+
+
+
